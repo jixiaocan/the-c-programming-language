@@ -5,7 +5,7 @@
 #define MAXCHAR 128  // max different characters
 
 // Exercise 1-14. Write a program to print a histogram of the frequencies of
-// different characters in its input.
+// different characters in its input. 打印输入中各个字符出现频度的直方图
 int main() {
   int c, i;
   int len;          // length of each bar

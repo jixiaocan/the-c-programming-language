@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// function prototype
+// function prototype 函数原型
 int power(int m, int n);
 
 // test power function
